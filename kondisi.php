@@ -24,6 +24,7 @@ if ($lampu=='Merah') {
  	<link rel="stylesheet" href="">
  </head>
  <body>
+ <h1>Latihan</h1>
  	<form action="" method="POST">
  		<button type="submit" name="lampu" value="Merah">Merah</button>
  		<button type="submit" name="lampu" value="Kuning">Kuning</button>
